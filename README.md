@@ -1,2 +1,2 @@
-# MIPS_assembler
-Mips assembler supporting 55 instructions
+# mips_assembler
+mips assembler supporting 55 instructions
